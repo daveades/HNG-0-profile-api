@@ -1,0 +1,5 @@
+.env
+venv/
+build/
+profile-api.zip
+__pycache__/
